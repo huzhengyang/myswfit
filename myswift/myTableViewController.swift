@@ -24,8 +24,11 @@ class myTableViewController: UITableViewController {
         btn .addTarget(self, action: #selector(tapdd), for: .touchUpInside)
         
         
-        var box = UIView()
-        box.backgroundColor = .gray
+        var boxx = UIView()
+        
+        boxx.backgroundColor = .gray
+        
+        
         
     }
 
