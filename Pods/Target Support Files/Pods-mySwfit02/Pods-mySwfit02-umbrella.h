@@ -11,6 +11,6 @@
 #endif
 
 
-FOUNDATION_EXPORT double Pods_myswiftVersionNumber;
-FOUNDATION_EXPORT const unsigned char Pods_myswiftVersionString[];
+FOUNDATION_EXPORT double Pods_mySwfit02VersionNumber;
+FOUNDATION_EXPORT const unsigned char Pods_mySwfit02VersionString[];
 

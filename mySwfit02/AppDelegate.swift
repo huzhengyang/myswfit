@@ -1,11 +1,12 @@
 //
 //  AppDelegate.swift
-//  myswift
+//  mySwfit02
 //
-//  Created by kadis on 2021/9/13.
+//  Created by kadis on 2021/9/18.
 //
 
 import UIKit
+
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
 

@@ -1,8 +1,8 @@
 //
 //  ocViewController.m
-//  myswift
+//  mySwfit02
 //
-//  Created by kadis on 2021/9/14.
+//  Created by kadis on 2021/9/18.
 //
 
 #import "ocViewController.h"
@@ -16,10 +16,6 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view.
-}
--(void)seyhello:(NSString *)name
-{
-    
 }
 
 /*
