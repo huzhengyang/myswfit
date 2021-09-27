@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A13FB4BE2701C79C00724675 /* Login.swift in Sources */ = {isa = PBXBuildFile; fileRef = A13FB4BD2701C79C00724675 /* Login.swift */; };
 		A16DD55726F57A22005A3D89 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A16DD55626F57A22005A3D89 /* AppDelegate.swift */; };
 		A16DD55926F57A22005A3D89 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A16DD55826F57A22005A3D89 /* SceneDelegate.swift */; };
 		A16DD55B26F57A22005A3D89 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A16DD55A26F57A22005A3D89 /* ViewController.swift */; };
@@ -20,6 +21,7 @@
 /* Begin PBXFileReference section */
 		1B991454EC5D9D066C06FA88 /* Pods_mySwfit02.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_mySwfit02.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		9953967791E73E0B6CAD1E50 /* Pods-mySwfit02.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-mySwfit02.debug.xcconfig"; path = "Target Support Files/Pods-mySwfit02/Pods-mySwfit02.debug.xcconfig"; sourceTree = "<group>"; };
+		A13FB4BD2701C79C00724675 /* Login.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Login.swift; sourceTree = "<group>"; };
 		A16DD55326F57A22005A3D89 /* mySwfit02.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = mySwfit02.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A16DD55626F57A22005A3D89 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A16DD55826F57A22005A3D89 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -87,6 +89,7 @@
 				A16DD55626F57A22005A3D89 /* AppDelegate.swift */,
 				A16DD55826F57A22005A3D89 /* SceneDelegate.swift */,
 				A16DD55A26F57A22005A3D89 /* ViewController.swift */,
+				A13FB4BD2701C79C00724675 /* Login.swift */,
 				A16DD55C26F57A22005A3D89 /* Main.storyboard */,
 				A16DD55F26F57A25005A3D89 /* Assets.xcassets */,
 				A16DD56126F57A25005A3D89 /* LaunchScreen.storyboard */,
@@ -214,6 +217,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A16DD55B26F57A22005A3D89 /* ViewController.swift in Sources */,
+				A13FB4BE2701C79C00724675 /* Login.swift in Sources */,
 				A16DD55726F57A22005A3D89 /* AppDelegate.swift in Sources */,
 				A16DD57426F57B62005A3D89 /* ocViewController.m in Sources */,
 				A16DD55926F57A22005A3D89 /* SceneDelegate.swift in Sources */,

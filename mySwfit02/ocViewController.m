@@ -6,7 +6,7 @@
 //
 
 #import "ocViewController.h"
-
+#import "mySwfit02-Swift.h"
 @interface ocViewController ()
 
 @end
@@ -16,8 +16,17 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view.
+    Car * c = [[Car alloc] init];
+    c.num = 1;
+    
+    [c test];
+    [c testnew];
 }
 
+-(void)test
+{
+    
+}
 /*
 #pragma mark - Navigation
 
